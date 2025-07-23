@@ -44,12 +44,13 @@ Live Demo
 ## 🧩 Future Improvements
 
 -Add AI/Computer opponent
+
 -Show draw status
+
 -Track score across rounds
+
 -Add sound effects or animations
 
 ## 🙋‍♂️ Author
 
-Syed Raza Ali
-📧 05syed08@gmail.com
-🔗 LinkedIn
+**_Syed_**
