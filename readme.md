@@ -33,10 +33,12 @@ git clone https://github.com/your-username/tic-tac-toe.git
 cd tic-tac-toe
 npm install
 npm run dev   # or npm start if using CRA
+```
 
 ## 🧪 Demo
 
 <!-- Add your deployment link here -->
+
 Live Demo
 
 ## 🧩 Future Improvements
@@ -47,9 +49,7 @@ Live Demo
 -Add sound effects or animations
 
 ## 🙋‍♂️ Author
+
 Syed Raza Ali
 📧 05syed08@gmail.com
 🔗 LinkedIn
-
-
-```
