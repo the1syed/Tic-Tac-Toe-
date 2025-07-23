@@ -37,9 +37,7 @@ npm run dev   # or npm start if using CRA
 
 ## 🧪 Demo
 
-<!-- Add your deployment link here -->
-
-Live Demo
+🎮 [Click here to play Tic Tac Toe](https://tic-tac-toe-murex-chi.vercel.app/)
 
 ## 🧩 Future Improvements
 
